@@ -1,0 +1,15 @@
+[package]
+name = "dollar"
+version = "0.1.0"
+authors = ["Berima Kudjo"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand="0.8"
+num-format="0.4"
+crossterm = "0.26"
+indicatif = "0.16"
+
+
