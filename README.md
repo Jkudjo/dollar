@@ -1,0 +1,1 @@
+This script continuously simulates siphoning funds into an account, updating and displaying the total amount every few seconds. It combines file I/O, random number generation, formatted output, and terminal manipulation to create a dynamic and visually engaging terminal application
